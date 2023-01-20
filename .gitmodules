@@ -1,4 +1,3 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:leonardo-casamayor/leonardo-casamayor.github.io.git
-	branch = main
