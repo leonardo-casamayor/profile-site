@@ -24,7 +24,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN}}
+          deploy_key: ${{ secrets.HUGOPROFILE_DEPLOY }}
           external_repository: leonardo-casamayor/leonardo-casamayor.github.io
           publish_dir: /
           user_name: leonardo-casamayor
