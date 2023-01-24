@@ -28,3 +28,5 @@ jobs:
           external_repository: leonardo-casamayor/leonardo-casamayor.github.io
           publish_dir: ./public
           user_name: leonardo-casamayor
+          user_email: leonardo.casamayor@gmail.com
+          publish_branch: main
