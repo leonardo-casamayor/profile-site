@@ -27,3 +27,4 @@ jobs:
           personal_token: ${{ secrets.HUGOPROFILE_DEPLOY }}
           external_repository: leonardo-casamayor/leonardo-casamayor.github.io
           publish_dir: ./public
+          publish_branch: main
