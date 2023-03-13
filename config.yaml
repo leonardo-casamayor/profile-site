@@ -21,6 +21,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    hrefTargetBlank: true
 
 # Menus:
 #   main:
@@ -125,7 +126,7 @@ params:
       name: "Resume"
       url: "https://standardresume.co/r/naUhiCfg8ubX3Z6T1s1UL"
       download: true
-      newPage: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
