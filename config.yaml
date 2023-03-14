@@ -110,7 +110,7 @@ params:
       disableExperience: false
       disableEducation: false
       disableProjects: false
-      disableAchievements: false
+      disableAchievements: true
       disableContact: false
 
   # Hero
@@ -226,7 +226,6 @@ params:
           url: "https://www.udemy.com/course/docker-mastery/"
         date: "2020"
 
-  # Achievements
   # achievements:
   #   enable: true
   #   # title: "Custom Name"
